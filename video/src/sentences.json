@@ -1,0 +1,140 @@
+[
+ {
+  "id": "open1",
+  "text": "Delivering outcomes requires people, processes, data, systems and controls working together seamlessly.",
+  "start": 0.0,
+  "end": 6.23
+ },
+ {
+  "id": "open2",
+  "text": "As customer expectations, business priorities and ways of working evolve at NatWest, we need a more connected and adaptable way of working.",
+  "start": 7.21,
+  "end": 15.27
+ },
+ {
+  "id": "open3",
+  "text": "Sirius enables that shift, creating a connected, AI-enabled environment where work can be set up, managed and continuously improved.",
+  "start": 15.93,
+  "end": 23.87
+ },
+ {
+  "id": "start",
+  "text": "Getting started with Sirius is simple.",
+  "start": 24.85,
+  "end": 26.73
+ },
+ {
+  "id": "ws1",
+  "text": "Workflow Studio puts teams in control, making it easy to introduce new business processes or adapt existing ones as requirements evolve.",
+  "start": 27.35,
+  "end": 35.41
+ },
+ {
+  "id": "ws2",
+  "text": "Define how work should flow, configure necessary validations, controls and exception paths, and move rapidly from design to execution using intelligent recommendations and reusable components.",
+  "start": 36.19,
+  "end": 47.52
+ },
+ {
+  "id": "ih1",
+  "text": "Integration Hub enables those workflows to connect with the channels, systems and data they need, bringing the right information into the process where and when it is needed.",
+  "start": 48.57,
+  "end": 57.47
+ },
+ {
+  "id": "ih2",
+  "text": "Together, these capabilities help teams get new processes up and running faster and operate them consistently, while maintaining the governance and resilience needed at scale.",
+  "start": 58.52,
+  "end": 69.24
+ },
+ {
+  "id": "sw1",
+  "text": "Once up and running, workflows can be viewed in action through Single Window.",
+  "start": 69.71,
+  "end": 72.34
+ },
+ {
+  "id": "sw2",
+  "text": "Gain visibility into how work is progressing across the process and quickly identify what requires manual attention.",
+  "start": 73.35,
+  "end": 79.65
+ },
+ {
+  "id": "sw3",
+  "text": "AI-generated summaries bring explainability to workflows and help teams triage and resolve exceptions more effectively, while complete case history, supporting context and operational insights enable confident decision-making.",
+  "start": 80.25,
+  "end": 92.97
+ },
+ {
+  "id": "sw4",
+  "text": "With work and context brought together in a unified view, teams can coordinate more effectively, reduce delays and keep outcomes on track.",
+  "start": 93.71,
+  "end": 101.5
+ },
+ {
+  "id": "ob1",
+  "text": "Alongside managing the work itself, teams can understand what is happening across the broader process.",
+  "start": 102.3,
+  "end": 107.79
+ },
+ {
+  "id": "ob2",
+  "text": "Observability brings together signals from across processes, systems and data to provide real-time visibility into overall performance, helping teams identify bottlenecks in workflows, spot emerging issues early, and continuously improve how work gets done.",
+  "start": 108.6,
+  "end": 123.94
+ },
+ {
+  "id": "ai1",
+  "text": "Across every stage of this journey, AI is embedded throughout Sirius.",
+  "start": 124.93,
+  "end": 129.27
+ },
+ {
+  "id": "ai2",
+  "text": "From automating business checks, highlighting exceptions and providing intelligent recommendations, to AI assistants that help users find information, understand context and determine the next best action, AI helps teams make more informed decisions and act with greater confidence.",
+  "start": 129.79,
+  "end": 150.5
+ },
+ {
+  "id": "ai3",
+  "text": "Bringing all of this together in Sirius creates a more self-service and flexible way of working, giving teams greater control to configure, adapt and evolve how work gets done as needs change.",
+  "start": 151.13,
+  "end": 158.58
+ },
+ {
+  "id": "im0",
+  "text": "And the impact is clear.",
+  "start": 159.53,
+  "end": 165.76
+ },
+ {
+  "id": "im1",
+  "text": "Manual touchpoints per case fall from five or six with CRM, to just one or two with Sirius. That's eighty percent fewer.",
+  "start": 166.6,
+  "end": 172.55
+ },
+ {
+  "id": "im2",
+  "text": "Systems touched per request go from three to six with CRM, to one Single Window with Sirius.",
+  "start": 173.0,
+  "end": 175.0
+ },
+ {
+  "id": "im3",
+  "text": "And agent effort per case drops from twelve to forty-five minutes with CRM, to around five minutes with Sirius. That's seventy-five to ninety percent faster.",
+  "start": 175.57,
+  "end": 185.74
+ },
+ {
+  "id": "im4",
+  "text": "Less time searching for data across multiple sources. More time serving customers.",
+  "start": 186.48,
+  "end": 191.77
+ },
+ {
+  "id": "end",
+  "text": "The result is a more connected and responsive operating model, where teams can move faster, make better-informed decisions and continually improve the way outcomes are delivered.",
+  "start": 192.86,
+  "end": 202.99
+ }
+]
